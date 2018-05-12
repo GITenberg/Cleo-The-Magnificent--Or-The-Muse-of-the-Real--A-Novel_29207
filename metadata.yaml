@@ -1,0 +1,27 @@
+_repo: Cleo-The-Magnificent--Or-The-Muse-of-the-Real--A-Novel_29207
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Zangwill, Louis
+    birthdate: 1869
+    deathdate: 1938
+    gutenberg_agent_id: '33762'
+    url: http://www.gutenberg.org/2009/agents/33762
+    wikipedia: http://en.wikipedia.org/wiki/Louis_Zangwill
+description: ''
+gutenberg_issued: '2009-06-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '29207'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fiction'
+- !lcc 'PR'
+title: 'Cleo The Magnificent; Or, The Muse of the Real: A Novel'
+url: http://www.gutenberg.org/ebooks/29207
