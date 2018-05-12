@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/33762
     wikipedia: http://en.wikipedia.org/wiki/Louis_Zangwill
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/29207#Cleo-The-Magnificent--Or-The-Muse-of-the-Real--A-Novel
 gutenberg_issued: '2009-06-23'
 gutenberg_type: Text
 identifiers:
